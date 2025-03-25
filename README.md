@@ -113,3 +113,7 @@ Assists in describing medical scans and reports using AI-generated captions.
 Conclusion
 
 The project "Image Captioning with Pre-Trained Models" integrates deep learning, computer vision, and NLP to create an intelligent system capable of generating accurate captions for images. By leveraging Google Colab and powerful pre-trained models, we achieve an efficient and scalable solution. This technology finds applications in multiple domains, including assistive technology, social media automation, and medical imaging. Future work may involve improving contextual understanding through multimodal learning and enhancing captioning accuracy with reinforcement learning techniques.
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/5f246841-6ef5-4b99-a25e-2d90f2f8bcd5)
