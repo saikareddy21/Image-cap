@@ -117,3 +117,5 @@ The project "Image Captioning with Pre-Trained Models" integrates deep learning,
 *OUTPUT*
 
 ![Image](https://github.com/user-attachments/assets/5f246841-6ef5-4b99-a25e-2d90f2f8bcd5)
+
+![Image](https://github.com/user-attachments/assets/bae1e238-b93e-4fc2-804b-2ad277a005a3)
